@@ -10,7 +10,7 @@ Baixando o jogo:
 
 - Passo 1: Neste repositório, baixe o arquivo .rar
 - Passo 2: Descompacte o arquivo .rar
-- Passo 3: Na pasta descompactada, haverá a aplicação com o nome "My project"
+- Passo 3: Na pasta descompactada, haverá a aplicação com o nome "Angry Flappy Clone"
 
 O jogo segue um modelo simples. Para fazer o pássaro voar, aperte a tecla "Espaço". Sempre que passar entre um par de canos, a pontuação no canto superior esquerdo aumentará em um ponto por vez. O jogador perde o jogo apenas se o pássaro tocar em algum cano.
 
